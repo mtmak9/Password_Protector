@@ -45,4 +45,4 @@ The file "enc_file.txt" saves all the content hidden in the application, if this
 you can contact me for file decoding programs with which it is possible to recover the contents of an encoded file.
 
 ## Application design
-![alt_text](https://github.com/mtmak9/Password_Protector/blob/Projects/PPF_screen.png)
+[!alt_text](https://github.com/mtmak9/Password_Protector/blob/Projects/PPF_screen.png)
