@@ -15,18 +15,18 @@ Explanation of individual options:
 2. Close File - Forces closing and encrypting a file if for some reason it could not be done, or there is an error in the application. (file.txt -> enc_file.txt)
 3. Password - Ability to change the application access password to another one
 
-	1. Encrypt Password - Password encryption if it has been decoded in a file (key.txt -> enc_key.txt)
+	A. Encrypt Password - Password encryption if it has been decoded in a file (key.txt -> enc_key.txt)
 
-	2. Decrypt Password - Password decryption if it has been / is encoded in a file (enc_key.txt -> key.txt)
+	B. Decrypt Password - Password decryption if it has been / is encoded in a file (enc_key.txt -> key.txt)
 
-	3. Change Password - Change the password to another: (enc_key.txt -> key.txt -> Possibility to edit the file and save 		
+	C. Change Password - Change the password to another: (enc_key.txt -> key.txt -> Possibility to edit the file and save 		
 	the new password in the notepad)
 
 	4. Back - Return to the previous menu and encrypt the password file (key.txt -> enc_key.txt -> exit)
 4. Encryption
-	1. Encryption File - Master File Encryption in case of problems (optional)
-	2. Decryption File - Main file decryption in case of problems (optional)
-	3. Back - return to the previous options
+	A. Encryption File - Master File Encryption in case of problems (optional)
+	B. Decryption File - Main file decryption in case of problems (optional)
+	C. Back - return to the previous options
 
 ## Program support:
 
