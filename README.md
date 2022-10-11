@@ -1,11 +1,18 @@
 # Password Protector
 
+[![Github issues](https://img.shields.io/github/issues/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/issues)
+[![Github forks](https://img.shields.io/github/forks/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/forks)
+[![Github license](https://img.shields.io/github/license/mtmak9/Password_Protector)]
+
 A program to encrypt a text file and all content.
 The application uses encryption from a cryptographic library.
 With this program, you can encrypt any information in a text file that can only be decrypted by this application,
 it is a perfect solution for delicate information such as passwords, logins or sensitive data that we would not like to be included in them
 hands. The application is simple and has basic functions arranged in such a way that the program does not block access.
 If a program for some reason loses access to encryption files or passwords, I have file decoding programs that will decrypt the content if the program has lost access to them.
+
+## Key Features
+
 
 ## Instruction
 The default password is 0000
