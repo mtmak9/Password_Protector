@@ -1,16 +1,13 @@
 # Password Protector
-
-<p align="center">
-	
 <p align="center">
   <img src="https://github.com/mtmak9/Password_Protector/blob/Projects/glw-removebg-preview.png" alt="Banner"/>
 </p>
 
-[![Github issues](https://img.shields.io/github/issues/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/issues)
-[![Github forks](https://img.shields.io/github/forks/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/forks)
-![Github license](https://img.shields.io/github/license/mtmak9/Password_Protector)
-	
-</p>
+<p align="center">
+ [![Github issues](https://img.shields.io/github/issues/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/issues)
+ [![Github forks](https://img.shields.io/github/forks/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/forks)
+ ![Github license](https://img.shields.io/github/license/mtmak9/Password_Protector)
+</p>	
 A program to encrypt a text file and all content.
 The application uses encryption from a cryptographic library.
 With this program, you can encrypt any information in a text file that can only be decrypted by this application,
