@@ -2,7 +2,9 @@
 
 <p align="center">
 	
-![Banner](https://github.com/mtmak9/Password_Protector/blob/Projects/glw-removebg-preview.png)
+<p align="center">
+  <img src="https://github.com/mtmak9/Password_Protector/blob/Projects/glw-removebg-preview.png" alt="Banner"/>
+</p>
 
 [![Github issues](https://img.shields.io/github/issues/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/issues)
 [![Github forks](https://img.shields.io/github/forks/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/forks)
