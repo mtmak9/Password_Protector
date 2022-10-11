@@ -12,7 +12,11 @@ hands. The application is simple and has basic functions arranged in such a way 
 If a program for some reason loses access to encryption files or passwords, I have file decoding programs that will decrypt the content if the program has lost access to them.
 
 ## Key Features
-
+- Encrypt txt file
+- Encrypt password file for run program
+- Decrypt file & password file if requied
+- Change app PIN
+- Change cypher key
 
 ## Instruction
 The default password is 0000
