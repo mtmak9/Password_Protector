@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
- [![Github issues](https://img.shields.io/github/issues/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/issues)
- [![Github forks](https://img.shields.io/github/forks/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/forks)
- ![Github license](https://img.shields.io/github/license/mtmak9/Password_Protector)
+[![Github issues](https://img.shields.io/github/issues/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/issues)
+[![Github forks](https://img.shields.io/github/forks/mtmak9/Password_Protector)](https://github.com/mtmak9/Password_Protector/forks)
+![Github license](https://img.shields.io/github/license/mtmak9/Password_Protector)
 </p>	
 A program to encrypt a text file and all content.
 The application uses encryption from a cryptographic library.
